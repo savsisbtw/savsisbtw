@@ -9,8 +9,8 @@
 <br />
 
 <a href="https://nodeshift.space"><img src="https://img.shields.io/badge/nodeshift.space-0d1117?style=for-the-badge&logo=cloudflare&logoColor=white" alt="nodeshift" /></a>
-<a href="https://t.me/savsisim"><img src="https://img.shields.io/badge/telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="telegram" /></a>
-<a href="mailto:dev@savsis.xyz"><img src="https://img.shields.io/badge/dev@savsis.xyz-0d1117?style=for-the-badge&logo=maildotru&logoColor=white" alt="mail" /></a>
+<a href="https://t.me/btwincel"><img src="https://img.shields.io/badge/telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="telegram" /></a>
+<a href="mailto:developer@savsis.xyz"><img src="https://img.shields.io/badge/dev@savsis.xyz-0d1117?style=for-the-badge&logo=maildotru&logoColor=white" alt="mail" /></a>
 <a href="https://im.savsis.xyz"><img src="https://img.shields.io/badge/im.savsis.xyz-0d1117?style=for-the-badge&logo=threedotjs&logoColor=white" alt="site" /></a>
 
 </div>
