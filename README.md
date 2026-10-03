@@ -4,7 +4,7 @@
 
 # savsis
 
-**dev · уфа** — делаю то, чем сам пользуюсь: vpn, боты, плееры, инфра
+** Just a Middle Developer ^^ 
 
 <br />
 
