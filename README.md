@@ -23,11 +23,7 @@
 |---|---|
 | [**nodeshift.space**](https://nodeshift.space) | vpn-сервис: своя панель, sso, тг-бот, ноды в 5 странах |
 | [**mbs-panel**](https://github.com/savsisbtw/mbs-panel) | open-source vpn-панель, hysteria2 + ws/tls, one-command install |
-| [**smusic-tauri**](https://github.com/savsisbtw/smusic-tauri) | плеер на tauri под flac/wav/mp3 с discord rpc |
 | [**anisav**](https://github.com/savsisbtw/anisav) · [**mobile**](https://github.com/savsisbtw/anisav-mobile) | аниме-клиент: electron на десктоп, expo на ios |
-| [**battle-savsis**](https://github.com/savsisbtw/battle-savsis) | pvp-битва стикменов на python-коде игроков |
-| [**sgram**](https://github.com/savsisbtw/sgram) | десктопный телеграм-клиент с ghost mode |
-
 <br />
 
 ### стек
