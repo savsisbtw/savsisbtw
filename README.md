@@ -42,8 +42,5 @@
 ![react](https://img.shields.io/badge/react-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![tauri](https://img.shields.io/badge/tauri-0d1117?style=flat-square&logo=tauri&logoColor=FFC131)
 ![electron](https://img.shields.io/badge/electron-0d1117?style=flat-square&logo=electron&logoColor=47848F)
-![fastapi](https://img.shields.io/badge/fastapi-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
-![nginx](https://img.shields.io/badge/nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
-![linux](https://img.shields.io/badge/linux-0d1117?style=flat-square&logo=linux&logoColor=white)
 
 </div>
